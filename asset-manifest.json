@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Guido2k/moviehunter/static/css/main.339f8f77.chunk.css",
+    "main.js": "/Guido2k/moviehunter/static/js/main.5885ffb7.chunk.js",
+    "main.js.map": "/Guido2k/moviehunter/static/js/main.5885ffb7.chunk.js.map",
+    "runtime-main.js": "/Guido2k/moviehunter/static/js/runtime-main.670d2f70.js",
+    "runtime-main.js.map": "/Guido2k/moviehunter/static/js/runtime-main.670d2f70.js.map",
+    "static/js/2.3bc27ee5.chunk.js": "/Guido2k/moviehunter/static/js/2.3bc27ee5.chunk.js",
+    "static/js/2.3bc27ee5.chunk.js.map": "/Guido2k/moviehunter/static/js/2.3bc27ee5.chunk.js.map",
+    "index.html": "/Guido2k/moviehunter/index.html",
+    "precache-manifest.bca0f454954fef9b902ed0dbd2a72c28.js": "/Guido2k/moviehunter/precache-manifest.bca0f454954fef9b902ed0dbd2a72c28.js",
+    "service-worker.js": "/Guido2k/moviehunter/service-worker.js",
+    "static/css/main.339f8f77.chunk.css.map": "/Guido2k/moviehunter/static/css/main.339f8f77.chunk.css.map",
+    "static/js/2.3bc27ee5.chunk.js.LICENSE.txt": "/Guido2k/moviehunter/static/js/2.3bc27ee5.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Guido2k/moviehunter/static/media/moviebg2.079b4f64.png",
+    "static/media/moviedblogo.svg": "/Guido2k/moviehunter/static/media/moviedblogo.08392f18.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.670d2f70.js",
+    "static/js/2.3bc27ee5.chunk.js",
+    "static/css/main.339f8f77.chunk.css",
+    "static/js/main.5885ffb7.chunk.js"
+  ]
+}
