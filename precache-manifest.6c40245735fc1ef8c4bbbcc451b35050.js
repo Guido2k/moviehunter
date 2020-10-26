@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8bb2ec8da81956637510a8a4b15d7a15",
+    "revision": "8d5c9bb5a4c2d8d5fb0435e22e3d71ac",
     "url": "/moviehunter/index.html"
   },
   {
-    "revision": "1c7a5e5104cd248abed5",
+    "revision": "5dc81935a8934a04370c",
     "url": "/moviehunter/static/css/main.faf83dc9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moviehunter/static/js/2.3bc27ee5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1c7a5e5104cd248abed5",
-    "url": "/moviehunter/static/js/main.5885ffb7.chunk.js"
+    "revision": "5dc81935a8934a04370c",
+    "url": "/moviehunter/static/js/main.e17842e4.chunk.js"
   },
   {
     "revision": "390cb9ba6754030a5b3e",
